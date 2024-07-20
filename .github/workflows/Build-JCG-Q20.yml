@@ -1,4 +1,4 @@
-name: Build-uboot-MT7621-nand-ddr3-256m-r18-l15-115200.yml
+name: Build JCG-Q20 U-boot
 
 on:
   workflow_dispatch:
