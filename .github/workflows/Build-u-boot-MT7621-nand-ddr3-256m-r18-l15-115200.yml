@@ -1,4 +1,4 @@
-name: Build customized u-boot
+name: Build-uboot-MT7621-nand-ddr3-256m-r18-l15-115200.yml
 
 on:
   workflow_dispatch:
