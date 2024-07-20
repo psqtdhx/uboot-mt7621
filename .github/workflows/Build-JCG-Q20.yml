@@ -78,7 +78,7 @@ on:
 
 jobs:
   build:
-    name: Build-u-boot-MT7621-nand-ddr3-256m-r18-l15-115200
+    name: Build-JCG-Q20-nand-ddr3-256m-r18-l15-115200
     runs-on: ubuntu-latest
     strategy:
        fail-fast: False
